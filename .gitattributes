@@ -1,0 +1,3 @@
+// Override the other languages to dart
+
+*.dart linguist-language=Dart

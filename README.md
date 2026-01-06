@@ -25,7 +25,6 @@
   - [Folder Structure Overview 🗂️](#folder-structure-overview-️)
   - [Tech Stack \& Key Dependencies 🧰](#tech-stack--key-dependencies-)
   - [Security \& Notes ⚠️](#security--notes-️)
-  - [License ⚖️](#license-️)
 
 ---
 
@@ -42,6 +41,12 @@
 
 ## Demo
 
+<p align="center">
+  <img src="docs/images/sc_1.jpg" width="200" />&nbsp;&nbsp;&nbsp;
+  <img src="docs/images/sc_2.jpg" width="200" />&nbsp;&nbsp;&nbsp;
+  <img src="docs/images/sc_3.jpg" width="200" />
+</p>
+
 Open the app and grant location permission at launch. The home screen shows a Lottie animation while locating the device; once found, it navigates to the map viewer with live location and search.
 
 ---
@@ -56,8 +61,8 @@ Open the app and grant location permission at launch. The home screen shows a Lo
 ### Clone & install
 
 ```bash
-git clone <repo-url>
-cd mymap
+git clone https://github.com/shehabs-dev/MyMapp.git
+cd MyMapp
 flutter pub get
 ```
 
@@ -201,31 +206,3 @@ Recommended improvements:
 - Add CI (GitHub Actions) to run `flutter analyze`, `flutter test`, and formatting checks
 
 ---
-
-## License ⚖️
-
-This project is licensed under the MIT License — see below and the top-level `LICENSE` file for details.
-
-```
-MIT License
-
-Copyright (c) 2026 Shehab Saber
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-```
