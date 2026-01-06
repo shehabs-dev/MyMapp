@@ -1,3 +1,6 @@
 // Override the other languages to dart
 
 *.dart linguist-language=Dart
+*.cpp linguist-language=Ignore
+*.h linguist-language=Ignore
+
