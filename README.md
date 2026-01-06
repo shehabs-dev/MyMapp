@@ -206,3 +206,7 @@ Recommended improvements:
 - Add CI (GitHub Actions) to run `flutter analyze`, `flutter test`, and formatting checks
 
 ---
+
+## 📫 Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shehab-saber-a78746355)
