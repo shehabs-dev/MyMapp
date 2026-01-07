@@ -61,8 +61,8 @@ Open the app and grant location permission at launch. The home screen shows a Lo
 ### Clone & install
 
 ```bash
-git clone https://github.com/shehabs-dev/MyMapp.git
-cd MyMapp
+git clone https://github.com/shehabs-dev/flutter-map-app.git
+cd flutter-map-app
 flutter pub get
 ```
 
